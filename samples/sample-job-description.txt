@@ -1,0 +1,23 @@
+Senior Full Stack Engineer - AI Powered Platforms
+Company: NextGen Systems Inc.
+Location: San Francisco, CA (Hybrid / Remote options)
+
+About the Role:
+We are looking for an experienced Senior Full Stack Engineer to lead the architecture, design, and development of our next-generation AI-powered cloud applications. You will collaborate closely with AI researchers, product managers, and UI/UX designers to bring high-performance web products to life.
+
+Key Responsibilities:
+- Architect and develop robust, highly-available web applications and distributed microservices using Node.js, Express, and React.
+- Integrate modern LLMs and generative AI APIs (e.g., Google Gemini, OpenAI) into user-facing workflows with streaming responses and structured outputs.
+- Design performant MongoDB and PostgreSQL data models, caching layers with Redis, and optimized aggregation pipelines.
+- Implement CI/CD pipelines, containerized deployments using Docker, and cloud infrastructure management on AWS/GCP.
+- Champion engineering best practices, conduct thorough code reviews, ensure comprehensive test automation (Jest, Cypress), and mentor mid-level and junior engineers.
+- Drive web performance optimization, accessibility standards (WCAG), and application security (OWASP standards, JWT authentication, rate limiting).
+
+Required Qualifications:
+- 4+ years of professional full-stack software development experience with JavaScript / TypeScript, Node.js, and React.
+- Strong proficiency with NoSQL databases (MongoDB / Mongoose) and relational databases (PostgreSQL).
+- Proven track record in designing RESTful APIs, microservices, and asynchronous event-driven architectures.
+- Hands-on experience with cloud deployment, Docker containers, and CI/CD pipelines.
+- Familiarity with AI/LLM integration (prompt engineering, model serving, or GenAI SDKs) is a huge plus.
+- Excellent problem-solving skills, ownership mindset, and clear communication.
+

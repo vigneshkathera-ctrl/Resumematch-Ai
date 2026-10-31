@@ -1,0 +1,44 @@
+Alex Morgan
+Full Stack Software Engineer
+alex.morgan@example.com | (555) 382-9012 | San Francisco, CA | linkedin.com/in/alexmorgan-dev | github.com/alexm-dev
+
+PROFESSIONAL SUMMARY
+Results-driven Full Stack Engineer with 4 years of experience building scalable web applications, RESTful microservices, and interactive user interfaces using React, Node.js, and TypeScript. Passionate about clean code architecture, database optimization, and CI/CD automation.
+
+TECHNICAL SKILLS
+Languages: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL
+Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS, Vite, Webpack
+Backend: Node.js, Express.js, REST APIs, GraphQL, Socket.io
+Databases: MongoDB, PostgreSQL, Redis, Mongoose, Prisma
+DevOps & Tools: Docker, Git, GitHub Actions, AWS (S3, EC2), Jest, Postman
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | CloudScale Solutions | San Francisco, CA
+June 2022 - Present
+- Built features for an enterprise B2B SaaS dashboard used by over 45,000 monthly active users.
+- Worked on backend API endpoints in Node.js and Express to process customer reporting analytics.
+- Improved frontend load times by implementing code splitting and caching with React Query.
+- Participated in weekly agile sprints, code reviews, and mentored 2 junior developers.
+- Fixed database query bottlenecks in PostgreSQL, reducing query latency by 35%.
+
+Junior Full Stack Developer | Apex Tech Labs | San Jose, CA
+August 2020 - May 2022
+- Developed responsive web interfaces using React.js and CSS modules according to Figma mockups.
+- Assisted in building authentication flows with JWT and bcrypt.
+- Created unit tests with Jest and React Testing Library, achieving 80% code coverage.
+- Helped maintain MongoDB database schemas and created aggregation pipelines for user reports.
+
+NOTABLE PROJECTS
+DevCollab - Real-time Collaborative Code Editor
+- Developed a browser-based collaborative editor utilizing WebSockets, Monaco Editor, and Node.js.
+- Implemented real-time syntax highlighting, operational transformation for multi-user editing, and room management.
+- Deployed frontend to Vercel and backend microservice to AWS ECS with Docker containers.
+
+TaskPulse - Agile Sprint Tracker & Productivity Suite
+- Created a Kanban board productivity application using Next.js, Tailwind CSS, TypeScript, and MongoDB.
+- Integrated drag-and-drop task workflows, automated email notifications, and role-based permissions.
+
+EDUCATION
+Bachelor of Science in Computer Science
+San Jose State University, California | Graduated May 2020
+

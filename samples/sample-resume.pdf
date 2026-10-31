@@ -1,0 +1,130 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2974 >>
+stream
+BT
+/F1 10 Tf
+12 TL
+40 760 Td
+(Alex Morgan) Tj
+T*
+(Full Stack Software Engineer) Tj
+T*
+(alex.morgan@example.com | \(555\) 382-9012 | San Francisco, CA | linkedin.com/in/alexmorgan-dev | github.com/alexm-dev) Tj
+T*
+T*
+/F2 12 Tf
+(PROFESSIONAL SUMMARY) Tj
+T*
+/F1 9 Tf
+(Results-driven Full Stack Engineer with 4 years of experience building scalable web applications, RESTful microservices, and interactive user interfaces using React, Node.js, and TypeScript. Passionate about clean code architecture, database optimization, and CI/CD automation.) Tj
+T*
+T*
+/F2 12 Tf
+(TECHNICAL SKILLS) Tj
+T*
+/F1 9 Tf
+(Languages: JavaScript \(ES6+\), TypeScript, Python, HTML5, CSS3, SQL) Tj
+T*
+(Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS, Vite, Webpack) Tj
+T*
+(Backend: Node.js, Express.js, REST APIs, GraphQL, Socket.io) Tj
+T*
+(Databases: MongoDB, PostgreSQL, Redis, Mongoose, Prisma) Tj
+T*
+(DevOps & Tools: Docker, Git, GitHub Actions, AWS \(S3, EC2\), Jest, Postman) Tj
+T*
+T*
+/F2 12 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+T*
+/F1 9 Tf
+(Software Engineer | CloudScale Solutions | San Francisco, CA) Tj
+T*
+(June 2022 - Present) Tj
+T*
+(- Built features for an enterprise B2B SaaS dashboard used by over 45,000 monthly active users.) Tj
+T*
+(- Worked on backend API endpoints in Node.js and Express to process customer reporting analytics.) Tj
+T*
+(- Improved frontend load times by implementing code splitting and caching with React Query.) Tj
+T*
+(- Participated in weekly agile sprints, code reviews, and mentored 2 junior developers.) Tj
+T*
+(- Fixed database query bottlenecks in PostgreSQL, reducing query latency by 35%.) Tj
+T*
+T*
+(Junior Full Stack Developer | Apex Tech Labs | San Jose, CA) Tj
+T*
+(August 2020 - May 2022) Tj
+T*
+(- Developed responsive web interfaces using React.js and CSS modules according to Figma mockups.) Tj
+T*
+(- Assisted in building authentication flows with JWT and bcrypt.) Tj
+T*
+(- Created unit tests with Jest and React Testing Library, achieving 80% code coverage.) Tj
+T*
+(- Helped maintain MongoDB database schemas and created aggregation pipelines for user reports.) Tj
+T*
+T*
+/F2 12 Tf
+(NOTABLE PROJECTS) Tj
+T*
+/F1 9 Tf
+(DevCollab - Real-time Collaborative Code Editor) Tj
+T*
+(- Developed a browser-based collaborative editor utilizing WebSockets, Monaco Editor, and Node.js.) Tj
+T*
+(- Implemented real-time syntax highlighting, operational transformation for multi-user editing, and room management.) Tj
+T*
+(- Deployed frontend to Vercel and backend microservice to AWS ECS with Docker containers.) Tj
+T*
+T*
+(TaskPulse - Agile Sprint Tracker & Productivity Suite) Tj
+T*
+(- Created a Kanban board productivity application using Next.js, Tailwind CSS, TypeScript, and MongoDB.) Tj
+T*
+(- Integrated drag-and-drop task workflows, automated email notifications, and role-based permissions.) Tj
+T*
+T*
+/F2 12 Tf
+(EDUCATION) Tj
+T*
+/F1 9 Tf
+(Bachelor of Science in Computer Science) Tj
+T*
+(San Jose State University, California | Graduated May 2020) Tj
+T*
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003277 00000 n 
+0000003347 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3422
+%%EOF
