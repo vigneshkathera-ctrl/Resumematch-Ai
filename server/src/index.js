@@ -32,9 +32,15 @@ connectDB();
 // Security HTTP headers
 app.use(helmet());
 
-// CORS configuration
+// CORS configuration (supports exact origins and Vercel deployments)
+const envOrigins = (process.env.CLIENT_ORIGIN || 'http://localhost:5173')
+  .split(',')
+  .map((o) => o.trim())
+  .filter(Boolean);
+
 const allowedOrigins = [
-  process.env.CLIENT_ORIGIN || 'http://localhost:5173',
+  ...envOrigins,
+  'http://localhost:5173',
   'http://localhost:3000',
   'http://127.0.0.1:5173'
 ];
@@ -43,7 +49,15 @@ app.use(
   cors({
     origin: (origin, callback) => {
       // Allow requests with no origin (like mobile apps, curl, Postman)
-      if (!origin || allowedOrigins.includes(origin)) {
+      if (!origin) {
+        return callback(null, true);
+      }
+
+      const isAllowed =
+        allowedOrigins.includes(origin) ||
+        origin.endsWith('.vercel.app');
+
+      if (isAllowed) {
         return callback(null, true);
       }
       return callback(new Error(`CORS policy does not allow access from origin: ${origin}`));
@@ -97,7 +111,7 @@ setInterval(() => {}, 1000 * 60 * 60);
 const server = app.listen(PORT, () => {
   console.log(`[ResumeMatch AI Server] Running on http://localhost:${PORT}`);
   console.log(`[Environment] Mode: ${process.env.NODE_ENV || 'development'}`);
-  console.log(`[AI Model Configured] ${process.env.GEMINI_MODEL || 'gemini-3.5-flash'}`);
+  console.log(`[AI Model Configured] ${process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite'}`);
 });
 
 server.on('error', (err) => {
